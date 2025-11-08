@@ -39,7 +39,7 @@ Simply follow the links to access deeper notes and resources.
 - **TensorFlow**
   - [TensorFlow Notes Repo](https://github.com/your-user/tensorflow-notes)
 
-## AI Tools
+### AI Tools
 
 - **Canva AI**
   - [TensorFlow Notes Repo](https://github.com/ShamShamsw/CanvaAI-Notes-and-ratings.git)
