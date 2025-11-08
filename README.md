@@ -8,15 +8,22 @@ Simply follow the links to access deeper notes and resources.
 
 ## Index
 
-### JavaScript & Frontend
+### Frontend
 
 - **React**
-  - [React Notes Repo](https://github.com/your-user/react-notes) — In-depth guides, hooks references, and advanced usage.
+  - [React Notes Repo](https://github.com/ShamShamsw/react-notes) — In-depth guides, hooks references, and advanced usage.
 
 - **Vue.js**
   - [Vue Notes Repo](https://github.com/your-user/vue-notes)
+ 
+- **Python**
+  - [Python Notes Repo](https://github.com/ShamShamsw/PythonNotes.git)
 
-### Python & Backend
+### Backend
+
+
+- **SQL**
+  - [SQL Notes Repo](https://github.com/ShamShamsw/SQLNotes.git)
 
 - **Django**
   - [Django Notes Repo](https://github.com/your-user/django-notes) — Covering models, views, templates, and deployment.
@@ -31,6 +38,12 @@ Simply follow the links to access deeper notes and resources.
 
 - **TensorFlow**
   - [TensorFlow Notes Repo](https://github.com/your-user/tensorflow-notes)
+
+## AI Tools
+
+- **Canva AI**
+  - [TensorFlow Notes Repo](https://github.com/ShamShamsw/CanvaAI-Notes-and-ratings.git)
+
 
 ---
 
