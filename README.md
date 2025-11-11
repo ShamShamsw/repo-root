@@ -65,3 +65,5 @@ Simply follow the links to access deeper notes and resources.
 - **Hardware**
   - [Canva Notes](https://www.canva.com/design/DAG4bdQaPcA/F5YmiDbXPEB1LNF7YHuDew/edit?utm_content=DAG4bdQaPcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=mLgTnkw558w)
+  - [Canva Notes](https://www.canva.com/design/DAG4bUuQiJY/xsM4p-abV5Wyf5G6qAZQ8w/edit?utm_content=DAG4bUuQiJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=yq9qzw8p7FI)
