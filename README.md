@@ -26,7 +26,7 @@ Simply follow the links to access deeper notes and resources.
   - [SQL Notes Repo](https://github.com/ShamShamsw/SQLNotes.git)
 
 - **Django**
-  - [Django Notes Repo](https://github.com/your-user/django-notes)
+  - [Django Notes Repo](https://github.com/ShamShamsw/Django-notes.git)
 
 - **Flask**
   - [Flask Notes Repo](https://github.com/your-user/flask-notes)
