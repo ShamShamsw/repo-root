@@ -49,3 +49,8 @@ Simply follow the links to access deeper notes and resources.
 
 - **Canva AI**
   - [TensorFlow Notes Repo](https://github.com/ShamShamsw/CanvaAI-Notes-and-ratings.git)
+
+### Information Technology
+
+- **IoT**
+  - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
