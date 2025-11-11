@@ -32,6 +32,7 @@ Simply follow the links to access deeper notes and resources.
  
 - **Blockchain**
   - [Blockchain Notes Repo](https://github.com/ShamShamsw/blockchain-notes.git)
+    - [Canva Notes Summary](https://www.canva.com/design/DAG4bOEIloQ/H8R_XgCzv3AnzRadKpB8Vg/edit?utm_content=DAG4bOEIloQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Data Science & Machine Learning
 
