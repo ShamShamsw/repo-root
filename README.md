@@ -21,7 +21,6 @@ Simply follow the links to access deeper notes and resources.
 
 ### Backend
 
-
 - **SQL**
   - [SQL Notes Repo](https://github.com/ShamShamsw/SQLNotes.git)
 
@@ -30,6 +29,9 @@ Simply follow the links to access deeper notes and resources.
 
 - **Flask**
   - [Flask Notes Repo](https://github.com/your-user/flask-notes)
+ 
+- **Blockchain**
+  - [Blockchain Notes Repo](https://github.com/ShamShamsw/blockchain-notes.git)
 
 ### Data Science & Machine Learning
 
