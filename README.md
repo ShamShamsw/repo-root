@@ -57,3 +57,7 @@ Simply follow the links to access deeper notes and resources.
 
 - **Digitalization
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- **Coputer Basics**
+  - [Canva Notes](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtube Link](https://www.youtube.com/watch?v=Cu3R5it4cQs)
