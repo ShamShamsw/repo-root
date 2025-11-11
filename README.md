@@ -14,7 +14,7 @@ Simply follow the links to access deeper notes and resources.
   - [React Notes Repo](https://github.com/ShamShamsw/react-notes)
 
 - **Vue.js**
-  - [Vue Notes Repo](https://github.com/your-user/vue-notes)
+  - [Vue Notes Repo](https://github.com/ShamShamsw/vue-notes.git)
  
 - **Python**
   - [Python Notes Repo](https://github.com/ShamShamsw/PythonNotes.git)
