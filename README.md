@@ -67,3 +67,5 @@ Simply follow the links to access deeper notes and resources.
   - [Youtube Link](https://www.youtube.com/watch?v=mLgTnkw558w)
   - [Canva Notes](https://www.canva.com/design/DAG4bUuQiJY/xsM4p-abV5Wyf5G6qAZQ8w/edit?utm_content=DAG4bUuQiJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=yq9qzw8p7FI)
+  - [Canva Notes](https://www.canva.com/design/DAG4bWHx6D8/gt8-24GbaiFKBZYXWNLIuw/edit?utm_content=DAG4bWHx6D8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=HB4I2CgkcCo)
