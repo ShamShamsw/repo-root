@@ -61,3 +61,7 @@ Simply follow the links to access deeper notes and resources.
 - **Coputer Basics**
   - [Canva Notes](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=Cu3R5it4cQs)
+
+- **Hardware**
+  - [Canva Notes](https://www.canva.com/design/DAG4bdQaPcA/F5YmiDbXPEB1LNF7YHuDew/edit?utm_content=DAG4bdQaPcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtube Link](https://www.youtube.com/watch?v=mLgTnkw558w)
