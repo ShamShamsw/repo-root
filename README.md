@@ -58,11 +58,9 @@ Simply follow the links to access deeper notes and resources.
 - **Digitalization**
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- **Coputer Basics**
-  - [Canva Notes](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Understanding Computers**
+  - [Canva Notes Understanding Computers](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=Cu3R5it4cQs)
-
-- **Hardware**
   - [Canva Notes Desktop Computer Basics](https://www.canva.com/design/DAG4bdQaPcA/F5YmiDbXPEB1LNF7YHuDew/edit?utm_content=DAG4bdQaPcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=mLgTnkw558w)
   - [Canva Notes Desktop Computer Ports and Peripherals](https://www.canva.com/design/DAG4bUuQiJY/xsM4p-abV5Wyf5G6qAZQ8w/edit?utm_content=DAG4bUuQiJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
