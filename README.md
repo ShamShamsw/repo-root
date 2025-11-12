@@ -63,11 +63,13 @@ Simply follow the links to access deeper notes and resources.
   - [Youtube Link](https://www.youtube.com/watch?v=Cu3R5it4cQs)
 
 - **Hardware**
-  - [Canva Notes](https://www.canva.com/design/DAG4bdQaPcA/F5YmiDbXPEB1LNF7YHuDew/edit?utm_content=DAG4bdQaPcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Desktop Computer Basics](https://www.canva.com/design/DAG4bdQaPcA/F5YmiDbXPEB1LNF7YHuDew/edit?utm_content=DAG4bdQaPcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=mLgTnkw558w)
-  - [Canva Notes](https://www.canva.com/design/DAG4bUuQiJY/xsM4p-abV5Wyf5G6qAZQ8w/edit?utm_content=DAG4bUuQiJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Desktop Computer Ports and Peripherals](https://www.canva.com/design/DAG4bUuQiJY/xsM4p-abV5Wyf5G6qAZQ8w/edit?utm_content=DAG4bUuQiJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=yq9qzw8p7FI)
-  - [Canva Notes](https://www.canva.com/design/DAG4bWHx6D8/gt8-24GbaiFKBZYXWNLIuw/edit?utm_content=DAG4bWHx6D8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Inside a Computer](https://www.canva.com/design/DAG4bWHx6D8/gt8-24GbaiFKBZYXWNLIuw/edit?utm_content=DAG4bWHx6D8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=HB4I2CgkcCo)
-  - [Canva Notes](https://www.canva.com/design/DAG4bhRze7w/rL6BioZdBtnivo9qqdPbMQ/edit?utm_content=DAG4bhRze7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Understanding Laptop Computers](https://www.canva.com/design/DAG4bhRze7w/rL6BioZdBtnivo9qqdPbMQ/edit?utm_content=DAG4bhRze7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=6LIv2ocJXRk)
+  - [Canva Notes Understanding Operating Systems](https://www.canva.com/design/DAG4bhRze7w/rL6BioZdBtnivo9qqdPbMQ/edit?utm_content=DAG4bhRze7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=6LIv2ocJXRk)
