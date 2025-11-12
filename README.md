@@ -71,5 +71,7 @@ Simply follow the links to access deeper notes and resources.
   - [Youtbe link](https://www.youtube.com/watch?v=6LIv2ocJXRk)
   - [Canva Notes Understanding Operating Systems](https://www.canva.com/design/DAG4bhRze7w/rL6BioZdBtnivo9qqdPbMQ/edit?utm_content=DAG4bhRze7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=6LIv2ocJXRk)
-  - [Canva Notes Understanding Operating Systems](https://www.canva.com/design/DAG4ho6qtnA/r2bcZgwdRkdygx_4w6ZS7A/edit?utm_content=DAG4ho6qtnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Understanding Applications](https://www.canva.com/design/DAG4ho6qtnA/r2bcZgwdRkdygx_4w6ZS7A/edit?utm_content=DAG4ho6qtnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=3gMOYZoMtEs)
+  - [Canva Notes Setting Up Your New Computer](https://www.canva.com/design/DAG4hue1Jfg/RUO66qnovHzbGs92O4_yPw/edit?utm_content=DAG4hue1Jfg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=RnM3u99xIf4)
