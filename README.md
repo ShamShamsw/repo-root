@@ -57,6 +57,9 @@ Simply follow the links to access deeper notes and resources.
 
 - **Digitalization**
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ 
+- **Hardware Versus Software**
+  - [Canva Notes What is Hardware / Software](https://www.canva.com/design/DAG4nxCFLho/ftJIieqvEg79fFcJd377pQ/edit?utm_content=DAG4nxCFLho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 
 - **Understanding Computers**
   - [Canva Notes Understanding Computers](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
