@@ -75,3 +75,7 @@ Simply follow the links to access deeper notes and resources.
   - [Youtbe link](https://www.youtube.com/watch?v=3gMOYZoMtEs)
   - [Canva Notes Setting Up Your New Computer](https://www.canva.com/design/DAG4hue1Jfg/RUO66qnovHzbGs92O4_yPw/edit?utm_content=DAG4hue1Jfg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=RnM3u99xIf4)
+  - [Canva Notes How to Connect to the Internet](https://www.canva.com/design/DAG4i2P77ek/UhWOmpujxnbfDt8oaVDF6g/edit?utm_content=DAG4i2P77ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=93-3zmVvCGU)
+  - [Canva Notes Keeping Your Computer Physically Clean](https://www.canva.com/design/DAG4iwZHT5c/0dPVPT7T_t1bfPlynrpXmg/edit?utm_content=DAG4iwZHT5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=kgBIsKeTLLk)
