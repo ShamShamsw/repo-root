@@ -81,3 +81,5 @@ Simply follow the links to access deeper notes and resources.
   - [Youtbe link](https://www.youtube.com/watch?v=kgBIsKeTLLk)
   - [Canva Notes Protecting Your Computer](https://www.canva.com/design/DAG4i3tzrwQ/i09M6aLEDoUG99tCIDWgUg/edit?utm_content=DAG4i3tzrwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=6mMZFoXbKqI)
+  - [Canva Notes Creating a Safe Workspace](https://www.canva.com/design/DAG4i2jQqOY/G-DGzp2HmHdPEjKanxxJNg/edit?utm_content=DAG4i2jQqOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=7NLQ3uC8_sw)
