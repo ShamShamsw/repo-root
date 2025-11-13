@@ -79,3 +79,5 @@ Simply follow the links to access deeper notes and resources.
   - [Youtbe link](https://www.youtube.com/watch?v=93-3zmVvCGU)
   - [Canva Notes Keeping Your Computer Physically Clean](https://www.canva.com/design/DAG4iwZHT5c/0dPVPT7T_t1bfPlynrpXmg/edit?utm_content=DAG4iwZHT5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=kgBIsKeTLLk)
+  - [Canva Notes Protecting Your Computer](https://www.canva.com/design/DAG4i3tzrwQ/i09M6aLEDoUG99tCIDWgUg/edit?utm_content=DAG4i3tzrwQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtbe link](https://www.youtube.com/watch?v=6mMZFoXbKqI)
