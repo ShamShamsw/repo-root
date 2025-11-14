@@ -12,6 +12,11 @@ Simply follow the links to access deeper notes and resources.
 
 - **Search Engines**
   - [Canva Notes How Search Engines Work](https://www.canva.com/design/DAG4oW0jDH8/3Ioo1wmCkDzDyAykPkjeJg/edit?utm_content=DAG4oW0jDH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+  - [Canva Notes Understanding Search Engines](https://www.canva.com/design/DAG4odI2Uwg/2fng2FdS_ftxBrEyENIfkQ/edit?utm_content=DAG4odI2Uwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- **URL**
+  - [Canva Notes Understanding URLS](https://www.canva.com/design/DAG4ofnbKbQ/dXWfFltbgMaTc8huVDHHRA/edit?utm_content=DAG4ofnbKbQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Effective Online Searching](https://www.canva.com/design/DAG4onWWoi0/NI7yRO6Xm-xdGcf6gHkJMA/edit?utm_content=DAG4onWWoi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Frontend
 
@@ -57,17 +62,20 @@ Simply follow the links to access deeper notes and resources.
 
 ### Information Technology
 
-- **IoT**
-  - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-
+- **Computer Basics**
+  - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/edit?utm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
 - **Digitalization**
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
 - **Hardware Versus Software**
   - [Canva Notes What is Hardware / Software](https://www.canva.com/design/DAG4nxCFLho/ftJIieqvEg79fFcJd377pQ/edit?utm_content=DAG4nxCFLho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
-- **Computer Basics**
-  - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/edit?utm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- **Internet**
+  - [Canva Notes Understanding the Internet](https://www.canva.com/design/DAG4ofB0wQU/obR44DSnLTylyIszNCq6gQ/edit?utm_content=DAG4ofB0wQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+ - **IoT**
+  - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 - **Understanding Computers**
   - [Canva Notes Understanding Computers](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -95,5 +103,3 @@ Simply follow the links to access deeper notes and resources.
   - [Canva Notes Creating a Safe Workspace](https://www.canva.com/design/DAG4i2jQqOY/G-DGzp2HmHdPEjKanxxJNg/edit?utm_content=DAG4i2jQqOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=7NLQ3uC8_sw)
 
-- **Internet**
-  - [Canva Notes Understanding the Internet](https://www.canva.com/design/DAG4ofB0wQU/obR44DSnLTylyIszNCq6gQ/edit?utm_content=DAG4ofB0wQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
