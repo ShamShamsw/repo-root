@@ -8,6 +8,11 @@ Simply follow the links to access deeper notes and resources.
 
 ## Index
 
+### SEO
+
+- **Search Engines**
+  - [Canva Notes How Search Engines Work](https://www.canva.com/design/DAG4oW0jDH8/3Ioo1wmCkDzDyAykPkjeJg/edit?utm_content=DAG4oW0jDH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+
 ### Frontend
 
 - **React**
