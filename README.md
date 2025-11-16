@@ -13,6 +13,7 @@ Simply follow the links to access deeper notes and resources.
 - **Search Engines**
   - [Canva Notes How Search Engines Work](https://www.canva.com/design/DAG4oW0jDH8/3Ioo1wmCkDzDyAykPkjeJg/edit?utm_content=DAG4oW0jDH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
   - [Canva Notes Understanding Search Engines](https://www.canva.com/design/DAG4odI2Uwg/2fng2FdS_ftxBrEyENIfkQ/edit?utm_content=DAG4odI2Uwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Understanding Web Browsers](https://www.canva.com/design/DAG40pnUdCc/LC7dd7EonujvTcMCDc0j6A/edit?utm_content=DAG40pnUdCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **URL**
   - [Canva Notes Understanding URLS](https://www.canva.com/design/DAG4ofnbKbQ/dXWfFltbgMaTc8huVDHHRA/edit?utm_content=DAG4ofnbKbQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -73,6 +74,7 @@ Simply follow the links to access deeper notes and resources.
  
 - **Internet**
   - [Canva Notes Understanding the Internet](https://www.canva.com/design/DAG4ofB0wQU/obR44DSnLTylyIszNCq6gQ/edit?utm_content=DAG4ofB0wQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Internet Safety](https://www.canva.com/design/DAG40jRcCk4/UdlSKfur_70sofBKN50iWw/edit?utm_content=DAG40jRcCk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
  - **IoT**
   - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
