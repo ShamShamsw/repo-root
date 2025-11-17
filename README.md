@@ -61,6 +61,11 @@ Simply follow the links to access deeper notes and resources.
 
 - **Canva AI**
   - [TensorFlow Notes Repo](https://github.com/ShamShamsw/CanvaAI-Notes-and-ratings.git)
+ 
+### Coding
+
+- **Coding Basics**
+  - [Canva Notes Coding Basics](https://www.canva.com/design/DAG47fPNWcc/Ce26yHe6Ni-v3USEj-05eQ/edit?utm_content=DAG47fPNWcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Information Technology
 
