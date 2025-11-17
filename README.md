@@ -105,3 +105,7 @@ Simply follow the links to access deeper notes and resources.
   - [Canva Notes Creating a Safe Workspace](https://www.canva.com/design/DAG4i2jQqOY/G-DGzp2HmHdPEjKanxxJNg/edit?utm_content=DAG4i2jQqOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=7NLQ3uC8_sw)
 
+### Cyber Security
+
+- **Spam & Phishing**
+  - [Canva NotesNavigating Internet Communication Risks](https://www.canva.com/design/DAG46_yg_GQ/vrrKzT4HVdrmESFDwmXKyw/edit?utm_content=DAG46_yg_GQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
