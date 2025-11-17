@@ -114,3 +114,4 @@ Simply follow the links to access deeper notes and resources.
 
 - **Spam & Phishing**
   - [Canva NotesNavigating Internet Communication Risks](https://www.canva.com/design/DAG46_yg_GQ/vrrKzT4HVdrmESFDwmXKyw/edit?utm_content=DAG46_yg_GQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Secure Password Creation](https://www.canva.com/design/DAG47OSy5c4/RUKjOsp8yc6VJih_aOLP0Q/edit?utm_content=DAG47OSy5c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
