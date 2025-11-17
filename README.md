@@ -75,6 +75,7 @@ Simply follow the links to access deeper notes and resources.
 - **Internet**
   - [Canva Notes Understanding the Internet](https://www.canva.com/design/DAG4ofB0wQU/obR44DSnLTylyIszNCq6gQ/edit?utm_content=DAG4ofB0wQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Canva Notes Internet Safety](https://www.canva.com/design/DAG40jRcCk4/UdlSKfur_70sofBKN50iWw/edit?utm_content=DAG40jRcCk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Internet and Search Engine Basics](https://www.canva.com/design/DAG46-fpomU/C5lDWu8Iz3bILHPEoME2LA/edit?utm_content=DAG46-fpomU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
  - **IoT**
   - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
