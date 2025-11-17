@@ -14,6 +14,7 @@ Simply follow the links to access deeper notes and resources.
   - [Canva Notes How Search Engines Work](https://www.canva.com/design/DAG4oW0jDH8/3Ioo1wmCkDzDyAykPkjeJg/edit?utm_content=DAG4oW0jDH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
   - [Canva Notes Understanding Search Engines](https://www.canva.com/design/DAG4odI2Uwg/2fng2FdS_ftxBrEyENIfkQ/edit?utm_content=DAG4odI2Uwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Canva Notes Understanding Web Browsers](https://www.canva.com/design/DAG40pnUdCc/LC7dd7EonujvTcMCDc0j6A/edit?utm_content=DAG40pnUdCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Digital Technology Tips and Tricks](https://www.canva.com/design/DAG47ArO-UY/FqSfZQDPfLMXfYuMw7G2Jg/edit?utm_content=DAG47ArO-UY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **URL**
   - [Canva Notes Understanding URLS](https://www.canva.com/design/DAG4ofnbKbQ/dXWfFltbgMaTc8huVDHHRA/edit?utm_content=DAG4ofnbKbQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -83,7 +84,8 @@ Simply follow the links to access deeper notes and resources.
   - [Canva Notes Understanding Communication Types](https://www.canva.com/design/DAG47PDLT40/cy6F26TYCu07l5p5wn1vWA/edit?utm_content=DAG47PDLT40&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
  - **IoT**
-  - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+  - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Essential Computer Skills](https://www.canva.com/design/DAG47DcoaJI/PUtSrEU_RLQiBf6Dn7dGAA/edit?utm_content=DAG47DcoaJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 - **Understanding Computers**
   - [Canva Notes Understanding Computers](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
