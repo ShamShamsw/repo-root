@@ -75,8 +75,11 @@ Simply follow the links to access deeper notes and resources.
 ### Information Technology
 
 - **Computer Basics**
-  - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/edit?utm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  
+  - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/editutm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  - **Coding**
+    - [Canva Notes Understanding Coding Languages](https://www.canva.com/design/DAG5AC7_f_8/dtt4gN4xtDjplCKSruwKDQ/edit?utm_content=DAG5AC7_f_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - **Digitalization**
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
