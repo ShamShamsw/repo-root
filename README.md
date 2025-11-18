@@ -93,6 +93,7 @@ Simply follow the links to access deeper notes and resources.
  
 - **Hardware Versus Software**
   - [Canva Notes What is Hardware / Software](https://www.canva.com/design/DAG4nxCFLho/ftJIieqvEg79fFcJd377pQ/edit?utm_content=DAG4nxCFLho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Software Development: A Comprehensive Guide](https://www.canva.com/design/DAG5FwsgH2M/gonnDizFhTj4WdCkcPa7Rg/edit?utm_content=DAG5FwsgH2M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
 - **Internet**
   - [Canva Notes Understanding the Internet](https://www.canva.com/design/DAG4ofB0wQU/obR44DSnLTylyIszNCq6gQ/edit?utm_content=DAG4ofB0wQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
