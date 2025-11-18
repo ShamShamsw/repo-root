@@ -137,3 +137,6 @@ Simply follow the links to access deeper notes and resources.
 
 - **Digital**
   - [Canva Notes Digital Organization and Efficiency](https://www.canva.com/design/DAG47BAximY/jMkaPn55ZCmIG2gJUWbKvQ/edit?utm_content=DAG47BAximY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- **Web Design**
+  - [Canva Notes Web Development: A High-Demand Career](https://www.canva.com/design/DAG5AQVekuw/5LQ-nCFzwkh7nzgCGhCpMw/edit?utm_content=DAG5AQVekuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
