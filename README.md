@@ -74,6 +74,9 @@ Simply follow the links to access deeper notes and resources.
 
 ### Information Technology
 
+- **App**
+  - [Canva Notes App](https://www.canva.com/design/DAG5Fl4QFTU/H6JaHwRigqKmsi9bzrxmCA/edit?utm_content=DAG5Fl4QFTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - **Computer Basics**
   - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/editutm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
