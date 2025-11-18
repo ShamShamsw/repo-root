@@ -76,6 +76,7 @@ Simply follow the links to access deeper notes and resources.
 
 - **App**
   - [Canva Notes App](https://www.canva.com/design/DAG5Fl4QFTU/H6JaHwRigqKmsi9bzrxmCA/edit?utm_content=DAG5Fl4QFTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Canva Notes Understanding Mobile Applications](https://www.canva.com/design/DAG5Fxl4C9U/Ho-KPt3V85NCqd_efx6PoA/edit?utm_content=DAG5Fxl4C9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **Computer Basics**
   - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/editutm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
