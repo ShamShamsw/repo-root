@@ -77,8 +77,8 @@ Simply follow the links to access deeper notes and resources.
 - **Computer Basics**
   - [Canva Note Computer Basics and Online Technologies](https://www.canva.com/design/DAG4oTjathA/rk1CgmvSRYyGaisC0a2S2Q/editutm_content=DAG4oTjathA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-  - **Coding**
-    - [Canva Notes Understanding Coding Languages](https://www.canva.com/design/DAG5AC7_f_8/dtt4gN4xtDjplCKSruwKDQ/edit?utm_content=DAG5AC7_f_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Coding**
+  - [Canva Notes Understanding Coding Languages](https://www.canva.com/design/DAG5AC7_f_8/dtt4gN4xtDjplCKSruwKDQ/edit?utm_content=DAG5AC7_f_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **Digitalization**
   - [Canva Understanding Digitalization](https://www.canva.com/design/DAG4bLTqgnk/PQ_2P6EFBaA3_UEnJwQbwQ/edit?utm_content=DAG4bLTqgnk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -98,8 +98,8 @@ Simply follow the links to access deeper notes and resources.
 
  - **IoT**
   - [Canva Notes IoT](https://www.canva.com/design/DAG4bLCoz60/Xs8RIUX29mdJgjcRzIcaQA/edit?utm_content=DAG4bLCoz60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - [Canva Notes Essential Computer Skills](https://www.canva.com/design/DAG47DcoaJI/PUtSrEU_RLQiBf6Dn7dGAA/edit?utm_content=DAG47DcoaJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-
+  - [Canva Notes Essential Computer Skills](https://www.canva.com/design/DAG47DcoaJI/PUtSrEU_RLQiBf6Dn7dGAA/edit?utm_content=DAG47DcoaJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    
 - **Understanding Computers**
   - [Canva Notes Understanding Computers](https://www.canva.com/design/DAG4bQf__ig/ibP0nY5ZtPrmImx4FgoM5w/edit?utm_content=DAG4bQf__ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtube Link](https://www.youtube.com/watch?v=Cu3R5it4cQs)
@@ -126,6 +126,9 @@ Simply follow the links to access deeper notes and resources.
   - [Canva Notes Creating a Safe Workspace](https://www.canva.com/design/DAG4i2jQqOY/G-DGzp2HmHdPEjKanxxJNg/edit?utm_content=DAG4i2jQqOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Youtbe link](https://www.youtube.com/watch?v=7NLQ3uC8_sw)
 
+- **Web Design**
+  - [Web Development Fundamentals](https://www.canva.com/design/DAG5AcG-T_0/tfIKG9YPgUnIiksA1eXkxg/edit?utm_content=DAG5AcG-T_0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
 ### Cyber Security
 
 - **Spam & Phishing**
