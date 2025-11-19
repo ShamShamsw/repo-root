@@ -169,3 +169,4 @@ Simply follow the links to access deeper notes and resources.
   - [Quick Model: Order-to-Cash in SAP Signavio](https://www.canva.com/design/DAG5GS3dC_4/dG4judFjH6YhqRhA0HmMNQ/edit?utm_content=DAG5GS3dC_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Understanding Frameworks](https://www.canva.com/design/DAG5GnZDKsk/IPXDt1xiuGsvvSraJJjaBg/edit?utm_content=DAG5GnZDKsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)'
   - [Business Frameworks Overview](https://www.canva.com/design/DAG5Gqwc-2Q/4yi9ycFarctUNF_3q5LUgg/edit?utm_content=DAG5Gqwc-2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [SWOT Analysis: SAP S/4HANA Implementation](https://www.canva.com/design/DAG5GrLuRU0/qF3OlRyR84M2gQSglwlXLg/edit?utm_content=DAG5GrLuRU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
