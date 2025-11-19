@@ -172,3 +172,4 @@ Simply follow the links to access deeper notes and resources.
   - [SWOT Analysis: SAP S/4HANA Implementation](https://www.canva.com/design/DAG5GrLuRU0/qF3OlRyR84M2gQSglwlXLg/edit?utm_content=DAG5GrLuRU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [SAP S/4HANA Modernization for Retail](https://www.canva.com/design/DAG5GpqotdY/jWGyYo7Y4O5iw5YcHWSAjQ/edit?utm_content=DAG5GpqotdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [SAP Business Analyst in ERP Projects](https://www.canva.com/design/DAG5G0mus-4/-LhbokANMWt_fh37kV0niA/edit?utm_content=DAG5G0mus-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [SAP Business Analyst Overview](https://www.canva.com/design/DAG5G9hlFOU/gVEi7dcnRwcYVISB6EL4Rw/edit?utm_content=DAG5G9hlFOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
