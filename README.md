@@ -159,3 +159,9 @@ Simply follow the links to access deeper notes and resources.
 
 - **Charts**
   - [Canva Notes Creating Effective Charts](https://www.canva.com/design/DAG5GK4HX1w/HUVJQMdpH6XJ7VsncQAuZQ/edit?utm_content=DAG5GK4HX1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### Business Analyst
+
+- **SAP**
+  - [Foundations of Business Analysis](https://www.canva.com/design/DAG5GUQvwUU/E89HAz4SDQa2Yw7ZYrf-ng/edit?utm_content=DAG5GUQvwUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [SAP Business Analyst Essentials](https://www.canva.com/design/DAG5GTMGoV0/W3KG-TekoXcgoBC1QFDjMw/edit?utm_content=DAG5GTMGoV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
