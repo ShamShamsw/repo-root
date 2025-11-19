@@ -165,3 +165,5 @@ Simply follow the links to access deeper notes and resources.
 - **SAP**
   - [Foundations of Business Analysis](https://www.canva.com/design/DAG5GUQvwUU/E89HAz4SDQa2Yw7ZYrf-ng/edit?utm_content=DAG5GUQvwUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [SAP Business Analyst Essentials](https://www.canva.com/design/DAG5GTMGoV0/W3KG-TekoXcgoBC1QFDjMw/edit?utm_content=DAG5GTMGoV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Bridging Business Needs with SAP Solutions](https://www.canva.com/design/DAG5GWKmvpI/u_zy4NHqGJy4U2Zl_8hBlg/edit?utm_content=DAG5GWKmvpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Quick Model: Order-to-Cash in SAP Signavio](https://www.canva.com/design/DAG5GS3dC_4/dG4judFjH6YhqRhA0HmMNQ/edit?utm_content=DAG5GS3dC_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
