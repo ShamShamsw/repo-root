@@ -91,10 +91,24 @@ To explore a specific topic, simply click on the category links above or navigat
 3. **Visual Learning**: Many topics include Canva presentations for visual learners
 4. **Video Tutorials**: YouTube links are provided for hands-on demonstrations
 
-## 🤝 Contributing
-
-This repository is continuously updated with new resources and notes. Feel free to explore and learn!
-
 ## 📝 License
 
-This repository serves as an index to various educational resources and notes.
+Copyright (c) 2025 ShamShamsw. All rights reserved.
+
+Purpose
+This repository is a personal index of educational resources and study notes created and maintained by ShamShamsw. It is intended primarily for the creator’s use and secondarily to serve as a clear guide for others to see which concepts the creator has studied.
+
+What you may do
+- View, clone, and fork this repository for your personal, non-commercial study and reference. Most links are private.
+- Use small excerpts, quotes, or ideas from the repository for educational, non-commercial purposes provided you give clear attribution to the author.
+
+What you may not do
+- Reproduce, redistribute, or publish substantial portions of this repository (for example, copying the entire repository or large parts of it) for commercial use or without written permission from the author.
+- Claim authorship of the content or remove attribution.
+
+Attribution and permissions
+- When referencing or sharing notable portions of this repository, please credit: "ShamShamsw".
+- For permission to reuse, modify, redistribute for commercial purposes, or otherwise use the content beyond personal study, contact the author directly.
+
+In short
+- This repository is a personal index of educational resources and study notes created by ShamShamsw; it is intended primarily for the creator’s use and secondarily as a guide for others — all rights are reserved to the creator, though personal, non-commercial study and referencing with attribution are permitted.
