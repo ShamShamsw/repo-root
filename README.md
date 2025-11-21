@@ -176,3 +176,4 @@ Simply follow the links to access deeper notes and resources.
   - [SDLC & SAP](https://www.canva.com/design/DAG5MoFKuIQ/_BBV0lrVh0VPNcanvhPA_w/edit?utm_content=DAG5MoFKuIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Introduction to SAP Activate](https://www.canva.com/design/DAG5MibUJv8/ISLKgRDhkwpZ9AdkmNwGNA/edit?utm_content=DAG5MibUJv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - [Agile & SAP Activate](https://www.canva.com/design/DAG5MtmmYIE/5Vd5HlelXG1CaeHzj0HdIA/edit?utm_content=DAG5MtmmYIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [SAP Business Analyst](https://www.canva.com/design/DAG5Sm81xdw/vk-8Navms48cyHiJRFYzzw/edit?utm_content=DAG5Sm81xdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
