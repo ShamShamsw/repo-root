@@ -1,6 +1,6 @@
 ### Business Analyst
 
--**SAP Repo**
+- **SAP Repo**
   - [SAP Repo](https://github.com/ShamShamsw/BA-SAP-Notes.git)
 
 - **SAP**
